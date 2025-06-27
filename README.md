@@ -1,5 +1,5 @@
-# Hi there 👋, I'm Rob Harmer
-# Software Developer!
+<h1> Hi there 👋, I'm Rob Harmer </h1>
+<h1> Software Developer! </h1>
 
 ## About me...👋
 - 💻 Aspiring Software Developer. Back-End (JavaScript, Node.js). Front-End (React, React Native, CSS)
