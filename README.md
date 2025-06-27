@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Rob Harmer
+# Software Developer!
 
-<!--
-**robharmer3/robharmer3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me...👋
+- 💻 Aspiring Software Developer. Back-End (JavaScript, Node.js). Front-End (React, React Native, CSS)
+- 🎓 Northcoder Graduate. Janurary 2025 Cohort.
+- 📜 Mechanical Engineering Degree from the University of Bolton (now known as the University of Greater Manchester).
+- 💏 Husband to my beautiful wife. Father to my amazing daugther.
+- 😸 Slightly cat mad! I have 3!!!
 
-Here are some ideas to get you started:
+## Coding...🎮
+- Current working on:
+   - This portofilio site
+   - Top-trump style game (name still TBD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies...✨
+- Coding 💻
+- Hockey 🏑
+- Food 🥞
+- Cats 😸
