@@ -10,7 +10,7 @@
 
 ## Coding...🎮
 - Current working on:
-   - This portofilio site
+   - Portofilio site
    - Top-trump style game (name still TBD)
 
 ## Hobbies...✨
