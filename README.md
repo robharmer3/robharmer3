@@ -2,15 +2,15 @@
 <h1> Software Developer! </h1>
 
 ## About me...👋
-- 💻 Aspiring Software Developer. Back-End (JavaScript, Node.js). Front-End (React, React Native, CSS)
-- 🎓 Northcoder Graduate. Janurary 2025 Cohort.
+- 💻 Software Developer. Back-End (JavaScript, Node.js). Front-End (React, React Native, CSS)
+- 🎓 Northcoders Graduate. Janurary 2025 Cohort.
 - 📜 Mechanical Engineering Degree from the University of Bolton (now known as the University of Greater Manchester).
-- 💏 Husband to my beautiful wife. Father to my amazing daugther.
+- 💏 Husband to my beautiful wife. Father to my amazing daughter.
 - 😸 Slightly cat mad! I have 3!!!
 
 ## Coding...🎮
 - Current working on:
-   - Portofilio site
+   - Portfolio site
    - Top-trump style game (name still TBD)
 
 ## Hobbies...✨
@@ -18,3 +18,4 @@
 - Hockey 🏑
 - Food 🥞
 - Cats 😸
+
