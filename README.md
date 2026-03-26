@@ -3,6 +3,7 @@
 
 ## About me...👋
 - 💻 Software Developer. Back-End (JavaScript, Node.js). Front-End (React, React Native, CSS)
+- 💼 Web Application Developer at Process Instruments (Pi)
 - 🎓 Northcoders Graduate. January 2025 Cohort.
 - 📜 Mechanical Engineering Degree from the University of Bolton (now known as the University of Greater Manchester).
 - 💏 Husband to my beautiful wife. Father to my amazing daughter.
